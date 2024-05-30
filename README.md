@@ -49,8 +49,7 @@ python image_similarity.py
 ```
 Or Run the cell of code from Jupyter Notebook.
 
-
-Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
+![output](./figures/output.png)
 
 
 ## Contact
