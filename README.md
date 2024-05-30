@@ -54,7 +54,7 @@ Or Run the cell of code from Jupyter Notebook.
 
 ## Contact
 
-If you want to contact me you can reach me at [shafi.cse.brur@gmail.com](shafi.cse.brur@gmail.com).
+If you want to contact me you can reach me at shafi.cse.brur@gmail.com .
 
 ## License
 
