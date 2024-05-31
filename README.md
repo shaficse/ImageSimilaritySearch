@@ -27,6 +27,12 @@ You can install all required packages with the following command:
 pip install torch torchvision scikit-learn h5py matplotlib pillow
 ```
 
+or run the below command
+
+```
+conda env create -f environment.yml
+```
+
 ## Usage
 
 To use this project, follow these steps:
